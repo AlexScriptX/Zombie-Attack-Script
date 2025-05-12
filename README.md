@@ -1,7 +1,8 @@
 # 🎯 Silent Aim + ESP Chams
 
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/AlexScriptX/Zombie-Attack-Script/refs/heads/main/Zombie%20Attack%20Silent%20Aim%20by%20AlexScriptX.lua"))() lua```
+loadstring(game:HttpGet("https://raw.githubusercontent.com/AlexScriptX/Zombie-Attack-Script/refs/heads/main/Zombie%20Attack%20Silent%20Aim%20by%20AlexScriptX.lua"))()
+```
 
 ## ✨ Características
 
