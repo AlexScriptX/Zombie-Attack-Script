@@ -4,38 +4,37 @@
 loadstring(game:HttpGet("https://raw.githubusercontent.com/AlexScriptX/Zombie-Attack-Script/refs/heads/main/Zombie%20Attack%20Silent%20Aim%20by%20AlexScriptX.lua"))()
 ```
 
-## ✨ Características
+## ✨ Features
 
-### 🔫 Aim Inteligente
-- Apunta automáticamente al **enemigo más cercano al cursor**.
-- Incluye **wallcheck**: ignora enemigos ocultos detrás de paredes u objetos sólidos.
+### 🔫 Smart Aim
+- Automatically aims at the **closest enemy to the cursor**.
+- Includes **wallcheck**: ignores enemies hidden behind walls or solid objects.
 
-### 👁️ ESP (Chams Dinámico)
-- Visualización tipo **Chams/Highlight** con cambio de color según visibilidad:
-  - 🟢 **Verde**: enemigo visible.
-  - 🔴 **Rojo**: enemigo detrás de una pared u obstáculo.
+### 👁️ ESP (Dynamic Chams)
+- **Chams/Highlight** style visualization with color change based on visibility:
+  - 🟢 **Green**: visible enemy.
+  - 🔴 **Red**: enemy behind a wall or obstacle.
 
-### ⚡Auto Colectar Powerups
-- Recolecta automaticamente los **Powerups** de todo el mapa.
+### ⚡ Auto Collect Powerups
+- Automatically collects **Powerups** across the map.
 
-### 🎛️ Controles
-- Presiona `V` para **activar/desactivar** Aimbot + ESP.
-- Presiona `Z` para **activar/desactivar** Auto Colectar Powerups.
+### 🎛️ Controls
+- Press `V` to **toggle** Aimbot + ESP.
+- Press `Z` to **toggle** Auto Collect Powerups.
 
-### 🔔 Notificaciones
-- Al activar: muestra notificación `"ACTIVADO"`
-- Al desactivar: notificación `"DESACTIVADO"`
+### 🔔 Notifications
+- When activated: shows `"ACTIVATED"` notification.
+- When deactivated: shows `"DEACTIVATED"` notification.
 
 ---
 
-## 🎮 Link del juego
+## 🎮 Game Link
 
 https://www.roblox.com/es/games/1240123653/Zombie-Attack
 
-
 ---
 
-## 🧑‍💻 Autor
+## 🧑‍💻 Author
 
-Creado por **AlexScriptX**  
-💬 Para créditos, menciones o mejoras: no olvides dar ⭐ al repositorio si te fue útil.
+Created by **AlexScriptX**  
+💬 For credits, mentions, or improvements: don't forget to give ⭐ to the repository if it was helpful.
